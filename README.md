@@ -59,7 +59,7 @@ No manual extraction is required.
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/jagrutgarg/Trader-Behavior-Insights
 cd Trader-Behavior-Insights
 ```
 ### 2. Install Dependencies
